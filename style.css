@@ -6,6 +6,10 @@
   font-family: apercu;
   src: url(Apercu-1/Apercu\ Medium.otf);
 }
+@font-face {
+    font-family: butler;
+    src: url(Apercu-1/);
+}
 .logo-img {
   width: 140px;
 }
@@ -101,8 +105,19 @@
     background-color: white;
     padding: 0px 19px;
     border-radius: 5px;
-    
+
 }
 .branches {
     padding: 20px 162px ;
+}
+
+.express {
+    color: #ffffff;
+    font-weight: 330px;
+    font-family: "apercu" ;
+}
+.express-fr {
+    font-family:"butler";
+    font-weight: 48px;
+    font-size: 48px;
 }
