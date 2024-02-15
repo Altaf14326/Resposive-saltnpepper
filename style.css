@@ -67,6 +67,42 @@
   /* font-weight: 16px; */
   margin: 0px 0px 40px;      
 }
-.sec-1 {
+/* .sec-1 {
     padding-top: 50px;
+} */
+.column {
+    flex: 1;
+    border: 1px solid #ffffff;
+    border-radius: 6px;
+    background: #ffffff;
+
+ }
+
+ .columns {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 5px 10px;
+    text-align: center;
+    max-width: 179px;
+    min-width: none;
+ }
+ .order-now {
+    font-size: 14px;
+    border: 1px solid gray;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    padding: 15px 50px;
+    margin-top: 20px;
+    text-align: center justify;
+}
+.salt-image {
+    background-color: white;
+    padding: 0px 19px;
+    border-radius: 5px;
+    
+}
+.branches {
+    padding: 20px 162px ;
 }
