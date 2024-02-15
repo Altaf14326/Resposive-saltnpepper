@@ -1,0 +1,72 @@
+@font-face {
+  font-family: futurak;
+  src: url(futurak.ttf);
+}
+@font-face {
+  font-family: apercu;
+  src: url(Apercu-1/Apercu\ Medium.otf);
+}
+.logo-img {
+  width: 140px;
+}
+
+.nav-links {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 25px;
+}
+
+#carousel-images {
+  margin: 0px 0px;
+  width: 100%;
+}
+
+.body {
+  background-color: #000;
+}
+
+.franchise {
+  height: 3rem;
+  width: 8rem;
+  border: #ffffff 0.5px solid;
+  border-radius: 30px;
+  margin: 0px 20px 0px 0px;
+  background: #000;
+  color: #ffffff;
+
+}
+
+.order-online {
+  height: 3rem;
+  width: 8rem;
+  border: #ED1C24 0.5px solid;
+  border-radius: 30px;
+  margin: 0px 20px 0px 0px;
+  background: #ED1C24;
+  color: #ffffff;
+  padding: 0px 0px;
+}
+
+.welcome {
+  color: #ffffff;
+  font-weight: 330px;
+  font-family: "apercu" ;
+}
+.saltn-font {
+    font-family: "futurak";
+    font-size: 55px;
+    color: white;
+}
+.text-center {
+  text-align: center justify;
+  font-weight: 100px;
+}
+.para {
+  font-family: "apercu";
+  color: #ffffff;
+  /* font-weight: 16px; */
+  margin: 0px 0px 40px;      
+}
+.sec-1 {
+    padding-top: 50px;
+}
