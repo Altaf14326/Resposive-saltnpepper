@@ -441,8 +441,8 @@ div>a {
     background-color: #FFFFFF;
     height: 29vh;
     width: 23.5vw;
-    /* display: flex;
-    flex-direction: column; */
+    display: "col-md-4 col-lg-4 col-md-4 col-sm-4 col-xs-12 inner_class_mobile_responsive_grid";
+    flex-direction: "";
     border-radius: 4px;
     text-align: center;
     padding: 25px 15px;
