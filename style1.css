@@ -255,7 +255,7 @@ div>a {
     font-family: "lora";
     margin-top: 20px;
     display: flex;
-    align-items: center;
+    justify-content: center;
     gap: 10px;
     text-align: center;
     cursor: pointer;
@@ -388,6 +388,8 @@ div>a {
 }
 .buttons2{
     padding-left: 90px;
+    align-content: center;
+    justify-content: center;
 }
 .village-franchise{
     background-color: #0F0F0F;
